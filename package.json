@@ -1,0 +1,16 @@
+{
+    "name": "testing_aws_rekognition",
+    "version": "1.0.0",
+    "description": "Test running python script from node.js",
+    "author": "Programmerryoki",
+    "license": "MIT",
+    "main": "index.js",
+    "keywords": [],
+    "dependencies": {
+        "react": "^16.13.1",
+        "aws-sdk": "^2.761.0",
+        "jquery": "^3.5.1",
+        "jquery-imagemapster": "^1.2.10",
+        "python-shell": "^2.0.2"
+    }
+}
